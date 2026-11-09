@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GameStore.Notifications.Api/GameStore.Notifications.Api.csproj" />
+    <Project Path="src/GameStore.Notifications.Application/GameStore.Notifications.Application.csproj" />
+    <Project Path="src/GameStore.Notifications.Domain/GameStore.Notifications.Domain.csproj" />
+    <Project Path="src/GameStore.Notifications.Infrastructure/GameStore.Notifications.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GameStore.Notifications.Tests/GameStore.Notifications.Tests.csproj" />
+  </Folder>
+</Solution>
+
